@@ -4,6 +4,4 @@ daku
 dangal
 skanda
 lala
-djtillu
-tillusquare
-fire
+
